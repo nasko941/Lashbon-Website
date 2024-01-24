@@ -4642,3 +4642,9 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   margin: 0 auto;
   gap: 40px;
 }
+#logo {
+  display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  max-width: 1000px;
+
